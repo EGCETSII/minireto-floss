@@ -1,0 +1,14 @@
+[project]
+name = "egc-graficos-pretty"
+version = "1.0.0"
+description = "Componente ficticio de EGC"
+requires-python = ">=3.10"
+license = "Apache-2.0"
+license-files = ["LICENSE", "NOTICE"]
+
+[build-system]
+requires = ["setuptools>=70"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]

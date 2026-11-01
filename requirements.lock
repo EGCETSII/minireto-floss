@@ -1,0 +1,8 @@
+# Dependencias Python del laboratorio EGC; todas las ruedas se incluyen en wheelhouse/.
+# Instalacion reproducible: python -m pip install --no-index --find-links=wheelhouse --require-hashes -r requirements.lock
+# Hashes SHA-256 calculados a partir de los archivos .whl proporcionados.
+
+egc-core-filtros==1.0.0 --hash=sha256:4ce664054dafbe63c31f13d09f8a2787d2a7307f24cb056a9ad68fab50ac82c3
+egc-graficos-pretty==1.0.0 --hash=sha256:d14ea72bcaa4d9d25152e5207fc36757fe78760ecd5fff891f3208ff8bf12fd4
+egc-informe-mit==1.0.0 --hash=sha256:066b8cc6de12a81937e9095aa4503f59a4f503aeed0a3b220e21cf6c00f71ca1
+egc-legado-fechas==1.0.0 --hash=sha256:50471aef7fbd165e837cddca36315e4a7539f79adfaa4c412ab2e4dafc212083

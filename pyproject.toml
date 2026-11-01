@@ -1,0 +1,11 @@
+[project]
+name = "egc-informe-producto"
+version = "1.0.0"
+description = "Programa ficticio de EGC para auditar licencias y dependencias"
+requires-python = ">=3.10"
+dependencies = [
+  "egc-core-filtros==1.0.0",
+  "egc-graficos-pretty==1.0.0",
+  "egc-informe-mit==1.0.0",
+  "egc-legado-fechas==1.0.0",
+]
