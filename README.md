@@ -39,4 +39,5 @@ No es necesario activar el entorno virtual ni instalar los componentes desde Int
 
 ## Sobre las licencias
 
-La aplicación principal **todavía no tiene una licencia de publicación elegida**. Las bibliotecas utilizadas tienen su propia documentación; su presencia en el proyecto no implica que todas puedan redistribuirse bajo cualquier licencia. La práctica consiste en investigar este aspecto y justificar una propuesta.
+La aplicación principal **todavía no tiene una licencia de publicación elegida**. Las bibliotecas utilizadas tienen su propia documentación y licencia; su presencia en el proyecto no implica que todas puedan redistribuirse bajo cualquier licencia. La práctica consiste en investigar este aspecto y justificar una propuesta.
+Hay que tener en cuenta que el componente `egc-legado-fechas` fue desarrollado en la propia empresa por un grupo de estudiantes en prácticas remuneradas.
